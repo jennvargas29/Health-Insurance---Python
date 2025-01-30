@@ -31,5 +31,4 @@
 - Insurance Company should:
 -  Refine pricing models by incorporating additional health factors.
 -  Offer personalized premium adjustments for smoking and BMI improvements.
--  Use predictive modeling (beyond linear regression) to estimate future costs.
 -  Encourage healthier lifestyles through targeted discounts and policy recommendations.
