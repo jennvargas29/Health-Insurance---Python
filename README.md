@@ -3,9 +3,9 @@
 
 
 Objective: Predict insurance charges based on demographic and medical information, focusing on Body Mass Index (BMI) as a key variable.
-✔ Dataset Attributes: Age, sex, BMI, number of children, smoking status, region, and insurance charges.
-✔ Supervised Learning Approach: Utilized supervised learning due to the presence of labeled data, where insurance charges served as the target variable alongside input features.
-✔ Problem Statement: Understand the relationship between demographic/medical factors and their impact on insurance costs.
+- ✔ Dataset Attributes: Age, sex, BMI, number of children, smoking status, region, and insurance charges.
+- ✔ Supervised Learning Approach: Utilized supervised learning due to the presence of labeled data, where insurance charges served as the target variable alongside input features.
+- ✔ Problem Statement: Understand the relationship between demographic/medical factors and their impact on insurance costs.
 ✔ Data Preprocessing: Included handling missing values, converting categorical variables to numerical representations, and conducting exploratory data analysis (EDA).
 ✔ Linear Regression was the chosen algorithm to model the relationship between independent variables and insurance charges.
 
