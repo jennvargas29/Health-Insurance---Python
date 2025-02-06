@@ -2,7 +2,7 @@
 
 
 
-📌Objective📌
+📌OBJETIVE📌
 - Predict insurance charges based on demographic and medical information, focusing on Body Mass Index (BMI) as a key variable.
 -  Dataset Attributes: Age, sex, BMI, number of children, smoking status, region, and insurance charges.
 -  Supervised Learning Approach: Utilized supervised learning due to the presence of labeled data, where insurance charges served as the target variable alongside input features.
@@ -11,7 +11,8 @@
 -  Linear Regression was the chosen algorithm to model the relationship between independent variables and insurance charges.
 
 
-📌Model Performance: Predicting Insurance Charges:📌
+
+📌MODEL PERFORMANCE: Predicting Insurance Charges:📌
 
 -  The Linear Regression model was built to predict insurance charges using BMI, age, smoking status, number of children, and region as input features.
 -  The model captured major trends well, showing that:
@@ -23,11 +24,11 @@
 -  Future Research Directions: Identified the need for further model refinement or exploration of alternative algorithms to enhance predictive accuracy and discover additional factors influencing insurance costs.
 
 
+📌CONCLUSION📌
+- In summary, the analysis successfully predicted insurance charges using demographic and medical data, confirming that BMI plays a role in determining costs. However, the results showed that BMI alone is not the strongest predictor—smoking status and age have a much greater impact. The linear regression model provided reasonable predictions, and the findings align with how real-world insurance pricing works. If more detailed health data (e.g., cholesterol levels, and exercise habits) were available, we could further refine the model and improve its accuracy.
+  
 
-📌Conclusion:📌
-- In summary, the analysis successfully predicted insurance charges using demographic and medical data, confirming that BMI plays a role in determining costs. However, the results showed that BMI alone is not the strongest predictor—smoking status and age have a much greater impact. The linear regression model provided reasonable predictions, and the findings align with how real-world insurance pricing works. If more detailed health data (e.g., cholesterol levels, exercise habits) were available, we could further refine the model and improve its accuracy.
-
-📌Recommendations:📌
+📌RECOMMENDATIONS📌
 - Insurance Company should:
 -  Refine pricing models by incorporating additional health factors.
 -  Offer personalized premium adjustments for smoking and BMI improvements.
