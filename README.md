@@ -1,14 +1,20 @@
 # Analyzing Risk Factors for Health Insurance Costs in Python
 
+Health insurance companies rely on data-driven strategies to set policy prices, assess risk, and predict claim costs. Accurately estimating insurance charges based on demographic and medical factors helps insurers create fair and competitive pricing models while enabling policyholders to understand how lifestyle and health choices impact their premiums.
+
 
 
 📌OBJETIVE📌
-- Predict insurance charges based on demographic and medical information, focusing on Body Mass Index (BMI) as a key variable.
+- Identify key factors that influence health insurance costs using exploratory data analysis (EDA) and linear regression modeling.
 -  Dataset Attributes: Age, sex, BMI, number of children, smoking status, region, and insurance charges.
--  Supervised Learning Approach: Utilized supervised learning due to the presence of labeled data, where insurance charges served as the target variable alongside input features.
 -  Problem Statement: Understand the relationship between demographic/medical factors and their impact on insurance costs.
 -  Data Preprocessing: Included handling missing values, converting categorical variables to numerical representations, and conducting exploratory data analysis (EDA).
 -  Linear Regression was the chosen algorithm to model the relationship between independent variables and insurance charges.
+
+
+
+
+
 
 
 
